@@ -1,0 +1,9 @@
+#summary Uninstall instructions for this keyboard layout
+#labels Featured,Phase-Deploy
+
+You can only uninstall this keyboard layout if it is _not_ the default keyboard layout. Follow these steps to change the default keyboard layout:
+
+ # Open the dialog to change your keyboard layout dialog.
+ # Change your default keyboard layout to something different than `United States-International (AltGr dead keys)`.
+ # Download and run setup.exe (the same way you would if you were to install this keyboard layout). Instructions are on the [http://code.google.com/p/usialtgr/ home page].
+ # The setup wizard will uninstall this keyboard layout.
