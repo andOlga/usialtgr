@@ -5,5 +5,5 @@ You can only uninstall this keyboard layout if it is _not_ the default keyboard 
 
  # Open the dialog to change your [http://windows.microsoft.com/en-US/windows7/Change-your-keyboard-layout keyboard layout dialog].
  # Change the default input language in the dropdown menu to something different than `United States-International (AltGr dead keys)`.
- # Download and run setup.exe (the same way you would if you were to install this keyboard layout). Instructions are on the [http://code.google.com/p/usialtgr/ home page].
+ # [http://code.google.com/p/usialtgr/downloads/list Download], extract and run setup.exe. You need not download the same version you have installed; the latest one will do just fine.
  # The setup wizard will uninstall this keyboard layout.
