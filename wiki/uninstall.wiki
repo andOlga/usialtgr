@@ -1,7 +1,7 @@
 #summary Uninstall instructions for this keyboard layout
 #labels Featured,Phase-Deploy
 
-You can only uninstall this keyboard layout if it is _not_ the default keyboard layout. Follow these steps to change the default keyboard layout:
+You can only uninstall this keyboard layout if it is _not_ the default keyboard layout. These steps will uninstall this keyboard layout:
 
  # Open the dialog to change your [http://windows.microsoft.com/en-US/windows7/Change-your-keyboard-layout keyboard layout dialog].
  # Change the default input language in the dropdown menu to something different than `United States-International (AltGr dead keys)`.
