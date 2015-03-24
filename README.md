@@ -17,8 +17,10 @@ Steps to install this keyboard layout:
   1. Run the installer (please be patient, it takes a minute to complete).
   1. Follow [these steps](http://windows.microsoft.com/en-US/windows7/Change-your-keyboard-layout) to change the keyboard layout to `United States-International (AltGr dead keys)`.
 
+It's also recommended to set the *input language* to "English (United States)". This will help prevent bugs with some apps adding new keyboard layouts randomly.
 
 ---
 
 
 Works on Windows XP, Windows Vista, Windows 7 and Windows 8.
+
