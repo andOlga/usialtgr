@@ -22,5 +22,4 @@ It's also recommended to set the *input language* to "English (United States)". 
 ---
 
 
-Works on Windows XP, Windows Vista, Windows 7 and Windows 8.
-
+Works on Windows XP and up.
